@@ -2,8 +2,8 @@
   "mcpServers": {
     "dispatch": {
       "type": "stdio",
-      "command": "/Applications/Dispatch.app/Contents/MacOS/DispatchMail",
-      "args": ["--mcp"]
+      "command": "sh",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/dispatch-mcp.sh"]
     }
   }
 }
