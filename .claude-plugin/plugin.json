@@ -1,0 +1,9 @@
+{
+  "name": "dispatch-mail",
+  "displayName": "Dispatch Mail",
+  "version": "1.0.0",
+  "description": "Read, search and triage the Gmail and iCloud mail in Dispatch, the Mac mail app, from Claude. Mail stays on your Mac: the tools run locally through Dispatch.",
+  "author": { "name": "The newi tools authors", "url": "https://newitools.app/dispatch/" },
+  "homepage": "https://newitools.app/dispatch/",
+  "license": "MIT"
+}

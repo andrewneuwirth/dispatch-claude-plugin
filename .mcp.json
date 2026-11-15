@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "dispatch": {
+      "type": "stdio",
+      "command": "/Applications/Dispatch.app/Contents/MacOS/DispatchMail",
+      "args": ["--mcp"]
+    }
+  }
+}
